@@ -13,6 +13,15 @@ public class NewsLoader extends AsyncTaskLoader<List<News>> {
 
     private String url;
 
+    @Override
+    public List<News> loadInBackground() {
+        if (url == null ) return  null;
+
+        List<News> results = null;
+
+        return results;
+    }
+
     public NewsLoader(Context context, String url) {
         super(context);
         this.url = url;
@@ -23,12 +32,4 @@ public class NewsLoader extends AsyncTaskLoader<List<News>> {
         forceLoad();
     }
 
-    @Override
-    protected List<News> onLoadInBackground() {
-        if (url == null ) return  null;
-
-        List<News> results = null;
-
-        return results;
-    }
 }

@@ -30,7 +30,7 @@ public class QueryUtils {
 
         ArrayList<News> newsList  = new ArrayList<>();
 
-        return newsList
+        return newsList;
     }
 
     private static URL createUrl(String stringUrl){

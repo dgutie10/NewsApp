@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_58bf72fa11a6bb2b3c232e8216b5d8654ffa9833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c3da0e20ef608de5ebef5d9e07c6492d2a5914d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_71fe98e0e6eb02109ba2eb5887028b49d93b4ab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a625a9b1fc23ecaddf0f57635590441a0d24d941\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7489d84ba34c83eed38211244deb226bea1a4e1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5c84f8d1acf214dc11f9354c5c8c3fdc1fc9c4db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_31e3849af5dc58d83a72c90c66f6f1b831fdc18a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ccde065e792cd8b117dd37f47dafe897e5e69e81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c487bbc509718d2884ccc36c18f5ff257097d14">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f9fbde28f40998d34b2b281ebc9415932e478cfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ef26ebd383bda4ed2a3ea7d850ccc3bbc9bc529f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_821dc3d01c30ac8f3b0afb58aaf5c6c4b58d93d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_5e759d8518a0d256ca42797688eb88bf489e76be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e1bb699296eb163d42524087b6a34bcfcfeb2a38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c9d32010f6421e4238f12b142882d580437cbb49">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_493c0b59c2ed2b79dd2cec5de8ff490f4512f359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_58683bf3b9d7c64840af89c4e96608511d0033f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_80b81bfd0058716a327622da932b2b6c015489b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f9ebdd08ce66aa2fe9748cdb47a35323b5fad0d9\classes.dex" />
+    </item>
+
+</items>

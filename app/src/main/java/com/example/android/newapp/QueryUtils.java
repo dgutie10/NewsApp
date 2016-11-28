@@ -3,6 +3,10 @@ package com.example.android.newapp;
 import android.text.TextUtils;
 import android.util.Log;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -12,6 +16,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by diegog on 11/23/2016.
@@ -30,7 +35,47 @@ public class QueryUtils {
 
         ArrayList<News> newsList  = new ArrayList<>();
 
+        try{
+            JSONObject root = new JSONObject(newsString);
+            JSONArray newsArray = root.getJSONObject("response").getJSONArray("results");
+            for (int i=0; i < newsArray.length(); i++){
+                JSONObject current = newsArray.getJSONObject(i);
+                String date = current.getString("webPublicationDate");
+                String title = current.getString("webTitle");
+                String url = current.getString("webUrl");
+                String section = current.getString("sectionName");
+
+                newsList.add(new News(url,date,title,section));
+
+            }
+
+        }catch (JSONException e ){
+            Log.e(LOG_TAG, "Problem Parsing JSON result");
+        }
+
         return newsList;
+    }
+
+    public static List<News> getNewsData (String urlAPI){
+        try{
+            Thread.sleep(2000);
+        }catch (InterruptedException e){
+            e.printStackTrace();
+        }
+
+        URL url = createUrl(urlAPI);
+        String JSONResponse =  null;
+
+        try{
+            JSONResponse = makeHttpRequest(url);
+        }catch (IOException e ){
+            Log.e(LOG_TAG, "Problem making HTTP request");
+        }
+
+        List<News> newsList = extractNews(JSONResponse);
+        return newsList;
+
+
     }
 
     private static URL createUrl(String stringUrl){

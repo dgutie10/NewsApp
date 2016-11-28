@@ -13,18 +13,17 @@ public class NewsLoader extends AsyncTaskLoader<List<News>> {
 
     private String url;
 
+    public NewsLoader(Context context, String url) {
+        super(context);
+        this.url = url;
+    }
+
     @Override
     public List<News> loadInBackground() {
         if (url == null ) return  null;
 
-        List<News> results = null;
-
+        List<News> results = QueryUtils.getNewsData(url);
         return results;
-    }
-
-    public NewsLoader(Context context, String url) {
-        super(context);
-        this.url = url;
     }
 
     @Override
